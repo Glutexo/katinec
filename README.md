@@ -23,6 +23,8 @@ Adresa: [Čeladná 0472, 739 12 Čeladná](https://mapy.cz/s/pufovabado)
 [http://chatadukla.cz/kontakt](http://chatadukla.cz/kontakt)
 
 Po, Út, St: zavřeno
+
 Čt, Pá: 16:00 – 22:00
+
 So, Ne: 11:00 – 23:00
 
