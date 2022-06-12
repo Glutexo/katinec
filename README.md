@@ -8,6 +8,7 @@
 
 #### Kontaktní údaje
 
+| -------- | ---------------------------------------------------------------------------|
 | Web      | [http://chatadukla.cz/](http://chatadukla.cz/)                             |
 | Telefon  | [+420 732 471 274](tel:+420732471274)                                      |
 | E-mail   | [info@chatadukla.cz](mailto:info@chatadukla.cz)                            |
@@ -18,6 +19,7 @@
 
 [http://chatadukla.cz/kontakt](http://chatadukla.cz/kontakt)
 
+| ------- | ------------- |
 | Pondělí | zavřeno       |
 | Úterý   | zavřeno       |
 | Středa  | zavřeno       |
