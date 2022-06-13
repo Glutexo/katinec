@@ -46,12 +46,14 @@
 | Web         | https://hotelnarozcesti.cz/                                                                                                                                      |
 | Telefon     | [+420 555 333 294](tel:+420555333294)                                                                                                                            |
 | E-mail      | [info@hotelnarozcesti.cz](mailto:info@hotelnarozcesti.cz)                                                                                                        |
-| Facebook    | [@restauracenarozcesti.cz/](https://facebook.com/restauracenarozcesti.cz)                                                                                        |
+| Facebook    | [@restauracenarozcesti.cz](https://facebook.com/restauracenarozcesti.cz)                                                                                        |
 | Instagram   | [@restauracenarozcesti](https://instagram.com/restauracenarozcesti)                                                                                              |
 | TripAdvisor | [Restaurace Na Rozcesti, Celadna](https://tripadvisor.cz/Restaurant_Review-g1160362-d12049782-Reviews-Na_Rozcesti-Celadna_Moravian_Silesian_Region_Moravia.html) |
 | Adresa      | [Čeladná 249, 739 12 Čeladná](https://mapy.cz/s/jozumujafo)                                                                                                      |
 
 #### Otevírací doba
+
+https://restauracenarozcesti.cz/kontakt/
 
 |         |               |
 | ------- | ------------- |
