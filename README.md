@@ -21,6 +21,7 @@
 [http://chatadukla.cz/kontakt](http://chatadukla.cz/kontakt)
 
 
+|         |               |
 | ------- | ------------- |
 | Pondělí | zavřeno       |
 | Úterý   | zavřeno       |
