@@ -30,3 +30,4 @@
 | Sobota  | 11:00 – 23:00 |
 | Neděle  | 11:00 – 23:00 |
 
+**Pozor!** Nedělní otvírací doba není správná. 12. června 2022 zavřeli už ve 21:00.
