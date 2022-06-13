@@ -13,7 +13,7 @@
 | Web      | [http://chatadukla.cz/](http://chatadukla.cz/)                             |
 | Telefon  | [+420 732 471 274](tel:+420732471274)                                      |
 | E-mail   | [info@chatadukla.cz](mailto:info@chatadukla.cz)                            |
-| Facebook | [https://www.facebook.com/ChataDukla](https://www.facebook.com/ChataDukla) |
+| Facebook | [@ChataDukla](https://facebook.com/ChataDukla) |
 | Adresa   | [Čeladná 0472, 739 12 Čeladná](https://mapy.cz/s/kesafafaru)               |
 
 #### Otevírací doba
@@ -41,15 +41,15 @@
 
 #### Kontaktní údaje
 
-|             |                                                                                                                                   |
-| ----------  | --------------------------------------------------------------------------------------------------------------------------------- |
-| Web         | https://hotelnarozcesti.cz/                                                                                                       |
-| Telefon     | [+420 555 333 294](tel:+420555333294)                                                                                             |
-| E-mail      | [info@hotelnarozcesti.cz](mailto:info@hotelnarozcesti.cz)                                                                         |
-| Facebook    | [https://www.facebook.com/restauracenarozcesti.cz/](https://www.facebook.com/restauracenarozcesti.cz)                             |
-| Instagram   | [https://www.instagram.com/restauracenarozcesti](https://www.instagram.com/restauracenarozcesti)                                  |
-| TripAdvisor | https://www.tripadvisor.cz/Restaurant_Review-g1160362-d12049782-Reviews-Na_Rozcesti-Celadna_Moravian_Silesian_Region_Moravia.html |
-| Adresa      | [Čeladná 249, 739 12 Čeladná](https://mapy.cz/s/jozumujafo)                                                                       |
+|             |                                                                                                                                                                  |
+| ----------  | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Web         | https://hotelnarozcesti.cz/                                                                                                                                      |
+| Telefon     | [+420 555 333 294](tel:+420555333294)                                                                                                                            |
+| E-mail      | [info@hotelnarozcesti.cz](mailto:info@hotelnarozcesti.cz)                                                                                                        |
+| Facebook    | [@restauracenarozcesti.cz/](https://facebook.com/restauracenarozcesti.cz)                                                                                        |
+| Instagram   | [@restauracenarozcesti](https://instagram.com/restauracenarozcesti)                                                                                              |
+| TripAdvisor | [Restaurace Na Rozcesti, Celadna](https://tripadvisor.cz/Restaurant_Review-g1160362-d12049782-Reviews-Na_Rozcesti-Celadna_Moravian_Silesian_Region_Moravia.html) |
+| Adresa      | [Čeladná 249, 739 12 Čeladná](https://mapy.cz/s/jozumujafo)                                                                                                      |
 
 #### Otevírací doba
 
